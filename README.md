@@ -13,7 +13,7 @@ This is a basic calculator web application designed to perform simple arithmetic
 
 To use the calculator, simply follow these steps:
 
-1. Open the [Calculator Web App](https://your-calculator-website-link.com) in your web browser.
+1. Open the [Calculator Web App](https://saugataghosh24.github.io/Calculator/) in your web browser.
 2. Enter the numbers and click on the respective operation button.
 3. View the result displayed on the calculator screen.
 
@@ -25,18 +25,6 @@ To use the calculator, simply follow these steps:
 
 ## Website Link
 
-[Calculator Web App](https://your-calculator-website-link.com)
-
-## License
-
-This calculator web app is open-source and available under the [MIT License](LICENSE).
-
-## Contributing
-
-If you'd like to contribute to the development of this calculator, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## Feedback
-
-For bug reports, feature requests, or general feedback, please create an issue [here](https://github.com/your-username/calculator-web-app/issues).
+[Calculator Web App](https://saugataghosh24.github.io/Calculator/)
 
 Happy calculating!
