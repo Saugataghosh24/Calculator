@@ -2,6 +2,10 @@
 
 This is a basic calculator web application designed to perform simple arithmetic calculations. The calculator provides a user-friendly interface for addition, subtraction, multiplication, and division.
 
+## Preview
+
+https://github.com/Saugataghosh24/Calculator/assets/135034312/4fd1db9d-5764-4840-8297-28cfea2d5505
+
 ## Features
 
 - Addition
