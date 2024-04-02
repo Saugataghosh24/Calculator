@@ -4,7 +4,7 @@ This is a basic calculator web application designed to perform simple arithmetic
 
 ## Preview
 
-https://github.com/Saugataghosh24/Calculator/assets/135034312/4fd1db9d-5764-4840-8297-28cfea2d5505
+![ss](https://github.com/Saugataghosh24/Calculator/assets/135034312/4fd1db9d-5764-4840-8297-28cfea2d5505)
 
 ## Features
 
